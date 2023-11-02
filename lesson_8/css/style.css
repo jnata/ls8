@@ -1,0 +1,426 @@
+@import url('fonts.css');
+@import url('reser.css');
+
+body{
+	background: url("../img/repeat.jpg");
+
+}
+.care-block {
+	max-width: 673px;
+	margin: 0 auto 60px auto;
+}
+.title-block {
+	max-width: 414px;
+}
+.title-block {
+}
+.sub-title {
+	padding-left: 18px;
+	background: url("../img/box.svg") 0 5px no-repeat;
+	color: #37393F;
+	font-family: "Inter",sans-serif;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: normal;
+	margin-bottom: 16px;
+}
+.s-title {
+	color: #37393F;
+	font-family: "Poppins",sans-serif;
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 1.21;
+	margin-bottom: 20px;
+}
+
+.cere-text {
+	color: #7D7D7D;
+	font-family: "Inter",sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 1.46;
+	margin-bottom: 15px;
+}
+
+.cere-text p{
+	margin-bottom: 15px;
+}
+.block-icon {
+	max-width: 613px;
+	font-size: 0;
+}
+.care-list {
+	min-height: 33px;
+	margin-bottom: 43px;
+	margin-right: 21px;
+}
+.list-item {
+	padding-left: 35px;
+	background: url("../img/vector.svg") 0 3px no-repeat;
+	color: #37393F;
+	font-family: "Poppins",sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 1.65;
+	margin-bottom: 23px;
+}
+
+.care-icon {
+	width: 295.11px;
+	display: inline-block;
+	border: 1px solid #E3E3E3;
+	height: 140px;
+	padding: 31px 32px 32px 32px;
+	margin-right: 21px;
+}
+.care-box {
+	width: 231px;
+	background: url("../img/Icon.svg") 0 0 no-repeat;
+	padding-left: 58px;
+}
+.icon-title {
+	color: #37393F;
+	font-family: "Poppins",sans-serif;
+	font-size: 20px;
+	font-weight: 600;
+	margin-bottom: 3px;
+}
+.care-icon-leverage {
+color: #7D7D7D;
+font-family: "Inter",sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.35;
+}
+.care-icon-awards {
+	width: 296.5px;
+	display: inline-block;
+	border: 1px solid #E3E3E3;
+	height: 140px;
+	padding: 31px 37px 32px 37px;
+	margin-bottom: 37px;
+}
+.icon-box {
+	width: 222.5px;
+	background: url("../img/Icon2.svg") 0 0 no-repeat;
+	padding-left: 58px;
+}
+
+.button a {
+	background: #6B77E5;
+	max-width: 184px;
+	padding: 21px 27px 22px 27px;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 35px;
+	color: #FFF;
+	text-align: center;
+	font-family: "Inter",sans-serif;
+	font-size: 18px;
+	font-weight: 600;
+	line-height: normal;
+	text-transform: capitalize;
+}
+
+/*Latest Projects*/
+.box-project {
+	max-width: 1220px;
+	margin: 0 auto 40px auto;
+	font-size: 0;
+}
+
+.project-block {
+	max-width: 852px;
+	margin: 0 auto 47px auto;
+	align-items: center;
+	font-family: "Inter",sans-serif;
+	font-size: 18px;
+
+}
+
+.project-title {
+	align-items: center;
+}
+.chapter {
+	max-width: 148px;
+	margin: 0 auto 14px auto;
+	align-items: center;
+	background: url("../img/box.svg") 0 3px no-repeat;
+	padding-left: 18px;
+	color: #37393F;
+	font-weight: 500;
+
+}
+.chapter-title{
+	max-width: 687px;
+	margin: 0 auto 14px auto;
+	color: #37393F;
+	text-align: center;
+	font-family: "Poppins",sans-serif;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 1.21;
+}
+.project-text {
+	max-width: 852px;
+	margin: 0 auto ;
+	color: #7D7D7D;
+	text-align: center;
+	font-weight: 400;
+	line-height: 1.46;
+}
+.block-investment,
+.block-marketing ,
+.block-business,
+.block-financial,
+.block-web,
+.financial-blo{
+	min-width: 384px;
+	height: 582px;
+	display: inline-block;
+}
+.block-investment{
+	background: url("../img/image.png") no-repeat;
+	padding-bottom: 24px;
+	margin-right: 34px;
+	margin-bottom: 58px;
+}
+
+.all-title {
+	padding-top: 525px;
+	color: #37393F;
+	font-family: "Poppins",sans-serif;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 1.27;
+	padding-bottom: 10px;
+}
+.text-box {
+	padding-left: 26px;
+	background: url("../img/profect.svg") no-repeat;
+	color: #7D7D7D;
+	font-family: "Inter",sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1.46;
+}
+.block-marketing {
+	background: url("../img/image2.png")no-repeat;
+	padding-bottom: 24px;
+	margin-right: 34px;
+	margin-bottom: 58px;
+}
+
+.block-business {
+	background: url("../img/image3.png") no-repeat;
+	padding-bottom: 24px;
+	margin-bottom: 58px;
+}
+
+.block-financial {
+	background: url("../img/image4.png") no-repeat;
+	margin-right: 34px;
+}
+
+.block-web {
+	background: url("../img/image5.png") no-repeat;
+	margin-right: 34px;
+}
+
+.financial-blo {
+	background: url("../img/img6.png") no-repeat;
+}
+/*ephoria*/
+
+.euphoria {
+	max-width: 1240px;
+	margin: 0 auto;
+	font-size: 0;
+	background: url("../img/euphoria.svg") no-repeat;
+	padding-left: 22px;
+	margin-bottom: 60px;
+}
+.euphoria-block {
+}
+.euphoria-title {
+color: #3C4242;
+font-family: "Core Sans C",sans-serif;
+font-size: 28px;
+font-weight: 600;
+line-height: 1.19;
+letter-spacing: 0.56px;
+margin-bottom: 30px;
+}
+.sub-euphoria {
+color: #807D7E;
+font-family: "Core Sans C",sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 1.67;
+letter-spacing: 0.4px;
+margin-bottom: 25px;
+}
+.text-euphoria {
+color: #807D7E;
+max-width: 1219px;
+font-family: "Causten",sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.67;
+letter-spacing: 0.4px;
+margin-bottom: 20px;
+}
+.block-euphoria {
+}
+.button-euphoria {
+	width: 168px;
+	color: #807D7E;
+	font-family: "Core Sans C",sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 1.67;
+	letter-spacing: 0.4px;
+}
+/*euphorias*/
+.euphoria-chapter {
+	max-width: 1240px;
+	margin: 0 auto 40px auto;
+	font-size: 0;
+	background: #007747;
+}
+.euphorias-box {
+	width: 613.997px;
+	height: 639.723px;
+	display: inline-block;
+	background: url("../img/euphoria1.jpg")no-repeat;
+	padding: 183px 74px 175px 74px;
+	vertical-align: top;
+
+}
+.euphorias-title {
+	max-width: 466px;
+	color: #FFF;
+	font-family: "CoreSansC", sans-serif;
+	font-size: 34px;
+	font-weight: 800;
+	line-height: 1.47; 
+	letter-spacing: 0.208px;
+	margin-bottom: 20px;
+}
+.euphorias {
+	width: 451px;
+	color: #FFF;
+	font-family: "Causten",sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	letter-spacing: 1px;
+	margin-bottom: 50px;
+
+}
+.button-euphorias a {
+	width: 168px;
+	border-radius: 8px;
+	background: #FFF;
+	padding: 12px 44px;
+	justify-content: center;
+	align-items: center;
+	color: #3C4242;
+	text-align: center;
+	font-family: "Causten",sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+}
+
+.box-euphoria {
+	background: url("../img/euphoria2.jpg")no-repeat;
+	width: 626.003px;
+	height: 639.723px;
+	display: inline-block;
+}
+/*practice*/
+.all-practice {
+	max-width: 1500px;
+	margin: 0 auto;
+	font-size: 0;
+}
+
+.practice {
+	max-width: 700px;
+	height: 350px;
+	background:url("../img/oct.jpg")no-repeat;
+	margin-bottom: 50px;
+}
+
+.practice p{
+	width: 640px;
+	font-size: 18px;
+	padding: 120px 30px 5px 30px;
+	font-family: "Causten",sans-serif;
+	text-align: center;
+	font-weight: 300;
+	line-height: 1.5;
+	color:rgb(118, 107, 8);
+	text-shadow: 3px 2px 1px #E3E3E3;
+	}
+.practice-botton {
+	max-width: 900px;
+	margin: 0 auto 50px auto;
+	font-size: 0;
+
+}
+.practice-box {
+	width: 800px;
+	height: 700px;
+	background: url("../img/pict2.jpg")no-repeat;
+	padding-top: 400px;
+}
+.practice-title {
+	background: url("../img/heart.png")no-repeat;
+	padding-left: 30px;
+	justify-content: center;
+	align-items: center;
+	color: #FFF;
+	text-align: center;
+	font-family: "Inter",sans-serif;
+	font-size: 18px;
+	font-weight: 600;
+	line-height:5;
+	text-transform: capitalize;
+
+}
+.practice-box p{
+	max-width: 687px;
+	color: #7a7110;
+	text-align: center;
+	font-family: "Poppins",sans-serif;
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 1.21;
+
+}
+.practice-chapter a {
+	margin-left: 300px;
+	width: 168px;
+	border-radius: 16px;
+	background: #bdab08;
+	padding: 12px 30px;
+	justify-content: center;
+	align-items: center;
+	color: #d24f0d;
+	text-align: center;
+	font-family: "Poppins",sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+}
